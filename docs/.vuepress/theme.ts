@@ -70,17 +70,13 @@ export default hopeTheme(
     // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
     blog: {
       articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-      name: "清顺",
+      name: "Emacsbliss",
       avatar: "/avatar_self.webp",
-      description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+      description: "Emacs enthusiast",
       intro: "/intro.html",
       medias: {
-        GitHub: "https://github.com/rockbenben",
-        Zhihu: "https://www.zhihu.com/people/qingwhat",
-        少数派: { icon: "https://newzone.top/icons/sspai.svg", link: "https://sspai.com/u/zqj05i4v/posts" },
-        Wechat: "https://img.newzone.top/wechat.svg",
-        Email: "mailto:learndata@newzone.top",
-        Discord: "https://discord.gg/PZTQfJ4GjX",
+        GitHub: "https://github.com/emacsbliss",
+        Email: "mailto:me@emacsbliss.com",
         RSS: "/rss.xml",
       },
     },
@@ -170,7 +166,7 @@ export default hopeTheme(
       },
 
       // Algolia 全文搜索：需要自己设置爬虫并生成下方配置，如不会自己设置，启用下方本地搜索
-      /* 
+      /*
       docsearch: {
         indexName: "<INDEX_NAME>",
         appId: "<APP_ID>",
