@@ -19,8 +19,8 @@ export default hopeTheme(
 
     // copyright 默认为 Copyright © <作者>
     copyright: `
-  版权声明：自由转载 - 非商用 - 非衍生 - 保持署名<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">（创意共享 4.0 许可证）</a>|
-  Copyright © 2023-present LearnData</a>
+  CC BY-NC-ND<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer"></a>|
+  Copyright © 2025 Emacsbliss</a>
   `,
     displayFooter: true,
     // 页脚，支持使用 HTMLString 以显示备案信息等
